@@ -40,7 +40,11 @@ Here are some screenshots of LevelUp in action:
 </div>
 
 ## Download Demo
+### Video 
 
+https://github.com/user-attachments/assets/190a875a-fffa-4776-b821-1f6324e196c6
+
+### Install application 
 You can download the demo version of LevelUp here:
 
 - [Download for Android](https://drive.google.com/file/d/11VM66EjP-HYRPtlMY13zH__j8PQZ4XV4/view?usp=sharing)
