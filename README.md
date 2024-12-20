@@ -42,7 +42,7 @@ Here are some screenshots of LevelUp in action:
 ## Download Demo
 ### Video 
 
-https://github.com/user-attachments/assets/190a875a-fffa-4776-b821-1f6324e196c6
+https://github.com/user-attachments/assets/22920560-5e62-40a8-87dc-b3db3a4bdedc
 
 ### Install application 
 You can download the demo version of LevelUp here:
